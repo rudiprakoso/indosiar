@@ -1,4 +1,163 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=375000,NAME=240p,RESOLUTION=426x240
-https://etslive-2-vidio-com.akamaized.net/exp=1625932691~acl=/hls-p/ingest_205_*/*~hmac=3237b3ecb1ca6f6124aa72004dd72ede64766bbc4a49b3cb0d3aabe657f9f406/hls-p/ingest_205_240p/index.m3u8
+#EXTINF:-1 group-title="NASIONAL",TVONE
+https://visionplus-stream.visionplus.id/live/eds/TVONE-Decepticon/sa_hls/TVONE-Decepticon-avc1_1000000=6-mp4a_98800_eng=5.m3u8
+#EXTINF:-1 group-title="NASIONAL",ANTV
+https://visionplus-stream.visionplus.id/live/eds/ANTV-radeon/sa_hls/ANTV-radeon-avc1_1000000=5-mp4a_98800_eng=6.m3u8
+#EXTINF:-1 group-title="NASIONAL",BERITA_SATU
+https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8?aux=eroz_brebes.m3u8
+#EXTINF:-1 group-title="NASIONAL",BERITA_ENGLISH
+https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8?ssrcb=eroz_brebes.m3u
+#EXTINF:-1 group-title="NASIONAL",Metro
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/eroz_brebes.m3u8
+#EXTINF:-1 group-title="NASIONAL",INews
+https://vcdn.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta.m3u8
+#EXTINF:-1 group-title="NASIONAL",MNC
+http://eroz84.wap.sh/local/mnc.m3u8
+#EXTINF:-1 group-title="NASIONAL",GTV
+https://livestreaming-google-etslive.vidio.com/live/778/master.m3u8
+#EXTINF:-1 group-title="NASIONAL",INews
+https://livestreaming-google-etslive.vidio.com/live/5409/master.m3u8
+#EXTINF:-1 group-title="NASIONAL",MetroTv
+https://livestreaming-google-etslive.vidio.com/live/777/master.m3u8
+#EXTINF:-1 group-title="NASIONAL",MNC
+https://livestreaming-google-etslive.vidio.com/live/870/master.m3u8
+#EXTINF:-1 group-title="NASIONAL",Net Tv
+https://livestreaming-google-etslive.vidio.com/live/875/master.m3u8
+#EXTINF:-1 group-title="NASIONAL",RCTI
+https://livestreaming-google-etslive.vidio.com/live/665/master.m3u8
+#EXTINF:-1 group-title="NASIONAL",Rtv
+https://livestreaming-google-etslive.vidio.com/live/1561/master.m3u8
+#EXTINF:-1 group-title="NASIONAL",Scti
+https://livestreaming-google-etslive.vidio.com/live/204/master.m3u8
+#EXTINF:-1 group-title="NASIONAL",TransTv
+https://livestreaming-google-etslive.vidio.com/live/733/master.m3u8
+#EXTINF:-1 group-title="NASIONAL",Trans7
+https://livestreaming-google-etslive.vidio.com/live/734/master.m3u8
+#EXTINF:-1 group-title="NASIONAL",Tvri Nasional
+https://livestreaming-google-etslive.vidio.com/live/6441/master.m3u8
+#EXTINF:-1 group-title="NASIONAL",The Indonesian Channel
+https://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/7dd4cf51_1_1400000/chunklist.m3u8
+#EXTINF:-1 group-title="NASIONAL",Citra Muslim
+https://livestreaming-google-etslive.vidio.com/live/6678/master.m3u8
+#EXTINF:-1 group-title="NASIONAL",IndoSiar
+https://livestreaming-google-etslive.vidio.com/live/205/master.m3u8
+#EXTINF:-1 group-title="PREMIUM",Fox Action HD
+http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
+#EXTINF:-1 group-title="PREMIUM",Thrill
+http://185.180.221.194:8278/streams/d/Thrill/playlist.m3u8
+#EXTINF:-1 group-title="PREMIUM",TLC
+http://185.180.221.194:8278/streams/d/Tlc/playlist.m3u8
+#EXTINF:-1 group-title="PREMIUM",AxN
+http://185.180.221.194:8278/streams/d/Axn/playlist.m3u8
+#EXTINF:-1 group-title="PREMIUM",Fox Movie
+http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
+#EXTINF:-1 group-title="PREMIUM",Fox life
+http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
+#EXTINF:-1 group-title="PREMIUM",Fox Family
+http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
+#EXTINF:-1 group-title="PREMIUM",Fox Action HD
+http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8
+#EXTINF:-1 group-title="PREMIUM",Fox Crime
+http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
+#EXTINF:-1 group-title="PREMIUM",HBO
+http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF:-1 group-title="PREMIUM",HBO Signature
+http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
+#EXTINF:-1 group-title="PREMIUM",Celestial
+http://185.180.221.194:8278/streams/d/Celestial/playlist.m3u8
+#EXTINF:-1group-title="PREMIUM",Celestial CCM
+http://185.180.221.194:8278/streams/d/Celestial2/playlist.m3u8
+#EXTINF:-1 group-title="PREMIUM",AeC
+http://185.180.221.194:8278/streams/d/Aec/playlist.m3u8
+#EXTINF:-1 group-title="PREMIUM",Xiaotaiyang
+http://185.180.221.194:8278/streams/d/Xiaotaiyang/playlist.m3u8
+#EXTINF:-1 group-title="PREMIUM",Huahee
+http://185.180.221.194:8278/streams/d/Huahee/playlist.m3u8
+#EXTINF:-1,Shuangxing
+http://185.180.221.194:8278/streams/d/Shuangxing/playlist.m3u8
+#EXTINF:-1,Qiyi
+http://185.180.221.194:8278/streams/d/Qiyi/playlist.m3u8
+#EXTINF:-1,Boo
+http://185.180.221.194:8278/streams/d/Boo/playlist.m3u8
+#EXTINF:-1,Prima
+http://185.180.221.194:8278/streams/d/Prima/playlist.m3u8
+#EXTINF:-1,Ceria
+http://185.180.221.194:8278/streams/d/Ceria/playlist.m3u8
+#EXTINF:-1,Ria
+http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
+#EXTINF:-1,Warna
+http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
+#EXTINF:-1,Arena
+http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
+#EXTINF:-1,Xinhe
+http://185.180.221.194:8278/streams/d/Xinhe/playlist.m3u8
+#EXTINF:-1,Quanjia
+http://185.180.221.194:8278/streams/d/Quanjia/playlist.m3u8
+#EXTINF:-1,AodHD
+http://185.180.221.194:8278/streams/d/AodHD/playlist.m3u8
+#EXTINF:-1,Awani
+http://185.180.221.194:8278/streams/d/Awani/playlist.m3u8
+#EXTINF:-1,Hello
+http://185.180.221.194:8278/streams/d/Hello/playlist.m3u8
+#EXTINF:-1,TV1
+http://185.180.221.194:8278/streams/d/TV1/playlist.m3u8
+#EXTINF:-1,TV2
+http://185.180.221.194:8278/streams/d/TV2/playlist.m3u8
+#EXTINF:-1,TV3
+http://185.180.221.194:8278/streams/d/TV3/playlist.m3u8
+#EXTINF:-1,TV7
+http://185.180.221.194:8278/streams/d/NTV7/playlist.m3u8
+#EXTINF:-1,TV8
+http://185.180.221.194:8278/streams/d/TV8/playlist.m3u8
+#EXTINF:-1,TV9
+http://185.180.221.194:8278/streams/d/TV9/playlist.m3u8
+#EXTINF:-1 group-title="SPORT",Fox Sport
+http://185.180.221.194:8278/streams/d/Foxsports/playlist.m3u8
+#EXTINF:-1 group-title="SPORT",Fox Sport Satu
+https://nonton.site:8443/provision/pp/51
+#EXTINF:-1 group-title="SPORT",Fox Sport 2
+http://185.180.221.194:8278/streams/d/Foxsports2/playlist.m3u8
+#EXTINF:-1 group-title="SPORT",Fox Sport Dua
+https://nonton.site:8443/provision/pp/102
+#EXTINF:-1 group-title="SPORT",Fox Sport 3
+http://185.180.221.194:8278/streams/d/Foxsports3/playlist.m3u8
+#EXTINF:-1 group-title="SPORT",Fox Sport Tiga
+https://nonton.site:8443/provision/pp/101
+#EXTINF:-1 group-title="SPORT",ASTRO SUPER SPORT 1
+http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8
+#EXTINF:-1 group-title="SPORT",ASTRO SUPER SPORT 2
+http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
+#EXTINF:-1 group-title="SPORT",ASTRO SUPER SPORT 3
+http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
+#EXTINF:-1 group-title="SPORT",ASTRO SUPER SPORT 4
+http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
+#EXTINF:-1 group-title="SPORT",SKY SPORT HD (BERAT)
+http://5.147.3.82:8000/play/a085/index.m3u8
+#EXTINF:-1 group-title="SPORT",SKY SPORT 1 HD (BERAT)
+https://m3u-editor.com/serve/a9490c60-ca60-11eb-9757-a16ca088906c/314147913 
+#EXTINF:-1 group-title="SPORT",BTSPORT 2
+http://stream.tvtap.live:8081/live/bt220.stream/chunks.m3u8
+#EXTINF:-1 group-title="SPORT",BTSPORT 3
+http://stream.tvtap.live:8081/live/bt33.stream/chunks.m3u8
+#EXTINF:-1 group-title="SPORT",RAISPORT+
+http://stream.tvtap.live:8081/live/it-raisportplus.stream/playlist.m3u8
+#EXTINF:-1 group-title="SPORT",LALIGA
+http://stream.tvtap.live:8081/live/bein-laliga.stream/playlist.m3u8
+#EXTINF:-1 group-title="SPORT",DAZN 1
+http://stream.tvtap.live:8081/live/it-dazn1.stream/playlist.m3u8
+#EXTINF:-1 group-title="SPORT",ONE SPORT
+http://103.11.112.28:1935/live2/smil:onesports.smil/chunklist_w594325387_b628000.m3u8
+#EXTINF:-1 group-title="SPORT",RUSSIA 1
+https://m3u-editor.com/serve/a9490c60-ca60-11eb-9757-a16ca088906c/314147904
+#EXTINF:-1 group-title="SPORT",RUSSIA 2
+https://m3u-editor.com/serve/a9490c60-ca60-11eb-9757-a16ca088906c/314147905
+#EXTINF:-1 group-title="SPORT",FIGHT SPORT
+https://nonton.site:8443/provision/pp/784
+#EXTINF:-1 group-title="SPORT",NBA TV
+https://nonton.site:8443/provision/pp/3099
+#EXTINF:-1 group-title="SPORT",NBA TV US
+https://nonton.site:8443/provision/pp/243
+#EXTINF:-1 group-title="SPORT",TENNIS CHANNEL 2
+https://nonton.site:8443/provision/pp/19168
+#EXTINF:-1 group-title="SPORT",WWE NETWORK
+https://nonton.site:8443/provision/pp/299
