@@ -1,3 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QdwWh5Lt/indosiar.png" group-title="nasional", INDOSIAR
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=375000,NAME=240p,RESOLUTION=426x240
 https://etslive-2-vidio-com.akamaized.net/exp=1625932691~acl=/hls-p/ingest_205_*/*~hmac=3237b3ecb1ca6f6124aa72004dd72ede64766bbc4a49b3cb0d3aabe657f9f406/hls-p/ingest_205_240p/index.m3u8
